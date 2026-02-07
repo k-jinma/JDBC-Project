@@ -1,0 +1,15 @@
+{
+  "name": "oracle-cloud-connection",
+  "version": "1.0.0",
+  "description": "Node.js application to connect to Oracle Cloud Database",
+  "main": "student.js",
+  "scripts": {
+    "student": "node student.js"
+  },
+  "dependencies": {
+    "oracledb": "^6.3.0"
+  },
+  "keywords": ["oracle", "database", "cloud"],
+  "author": "",
+  "license": "ISC"
+}
